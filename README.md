@@ -1,5 +1,7 @@
 # capi-flux-demo
 
+[![CIS](https://app.soluble.cloud/api/v1/public/badges/4b3a1598-4192-4703-9772-bcd7ad6948c4.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/capi-flux-demo?orgId=561911742905)  [![Git](https://app.soluble.cloud/api/v1/public/badges/4315670c-14b4-43a4-8df1-6d34d516431d.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/capi-flux-demo?orgId=561911742905)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/9e38da83-48ce-4c51-ab3d-278709eae6cb.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/capi-flux-demo?orgId=561911742905)  
+
 This demo shows signed-commit verification via GPG, as well as
 apply's of 2 Kustomizations to a CAPD (Cluster API Provider Docker) Cluster created and managed from this same repo.
 
